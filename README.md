@@ -1,16 +1,35 @@
 # temperature_converter
-
+App demo : 
+   https://drive.google.com/file/d/18-cUuXh8PvZX1UmZtdEanjICxb0JOZkg/view?usp=sharing
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Install Flutter:
 
-A few resources to get you started if this is your first Flutter project:
+Download from flutter.dev.
+Extract and add flutter/bin to your PATH.
+Set Up Editor:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+VS Code: Install Flutter and Dart plugins.
+Android Studio: Install Flutter and Dart plugins.
+Verify Setup:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run flutter doctor in terminal and follow instructions.
+Create Project:
+
+In terminal: flutter create my_project
+Open Project:
+
+VS Code: Open the project folder.
+Android Studio: Open the project.
+Run App:
+
+Connect device/emulator.
+In terminal: flutter run
+Edit Code:
+
+Modify lib/main.dart.
+Hot Reload:
+
+Press r in terminal while app is running to see changes instantly.
